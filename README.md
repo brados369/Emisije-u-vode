@@ -1,4 +1,4 @@
-# Emisije-u-vode
+# Emisije u vode EDA analiza
 Ovaj projekat analizira emisije zagađujućih materija u vodene resurse u Srbiji, koristeći dostupne podatke sa sajta data.gov.rs. Fokus je na identifikaciji glavnih zagađivača, industrijskih sektora i geografskih područja sa najvišim emisijama, uz primenu Exploratory Data Analysis (EDA) za bolji uvid u podatke.
 # Podaci
 Podaci su preuzeti sa data.gov.rs 
