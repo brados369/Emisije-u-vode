@@ -5,7 +5,7 @@ import os
 from datetime import datetime
 
 # 📌 Permalink dataset-a
-dataset_url = "https://data.gov.rs/sr/datasets/emisije-u-vode/"
+dataset_url = "<div data-udata-dataset="6616c41f944f536d39de263f"></div><script src="https://data.gov.rs/static/oembed.js" async defer></script>"
 
 # 📌 Lokalni fajlovi (prilagođeno tvom GitHub repozitorijumu)
 objedinjena_baza = "emisije_vode.xlsx"
